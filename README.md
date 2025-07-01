@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**h0usss/h0usss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="hello-gif.gif" width="400"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  #### Languages & Markup 
+  <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,js,bash"/>    
+  
+  #### Technologies
+  <img src="https://skillicons.dev/icons?i=docker,postgres,git,qt,maven,dotnet,spring,hibernate,postman,idea,vscode,visualstudio"/>    
+  
+  #### Other
+  <img src="https://skillicons.dev/icons?i=unity,arduino,blender,figma,ps,pr" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
